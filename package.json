@@ -1,5 +1,6 @@
 {
   "name": "passwordchanger",
+  "homepage": "https://mrmad2002.github.io/passwordGenerator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
